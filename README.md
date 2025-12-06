@@ -106,10 +106,6 @@ npm run preview
 - Animation mượt mà
 - Giao diện trực quan, dễ sử dụng
 
-## 📄 License
-
-Dự án này được phát hành dưới MIT License.
-
 ## 👨‍💻 Tác giả
 
 **Quynh Tran Diem** - [@quynh-trandiem04](https://github.com/quynh-trandiem04)
