@@ -6,7 +6,7 @@ import Cart from "./pages/Cart/Cart";
 import PlaceOrder from "./pages/PlaceOrder/PlaceOrder";
 import Footer from "./components/Footer/Footer";
 
-function app() {
+function App() {
   return (
     <>
       <div className="app">
@@ -22,4 +22,4 @@ function app() {
   );
 }
 
-export default app;
+export default App;
